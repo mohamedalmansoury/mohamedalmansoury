@@ -146,17 +146,6 @@ Pursuing a degree where geospatial technologies intersect with AI, computer visi
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedalmansouryi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalmansouryi&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedalmansouryi&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
