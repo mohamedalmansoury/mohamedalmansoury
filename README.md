@@ -282,7 +282,6 @@ Git • Docker • AWS • Google Drive Integration
 
 ### 💭 *"Transforming raw spatial data into intelligent, context-aware insights"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedalmansouryi&color=brightgreen&style=flat-square)
 
 ⭐️ From [mohamedalmansoury]([https://github.com/mohamedalmansouryi](https://github.com/mohamedalmansoury))
 
