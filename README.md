@@ -144,58 +144,7 @@ Pursuing a degree where geospatial technologies intersect with AI, computer visi
 
 ---
 
-## 🔬 Areas of Expertise
 
-```python
-expertise = {
-    "GeoAI": [
-        "Spatial ML", 
-        "Predictive Mapping", 
-        "Automated Feature Extraction",
-        "Geospatial Imagery Trend Analysis",
-        "SAR Flood Mapping"
-    ],
-    "Computer Vision": [
-        "Object Detection", 
-        "Image Segmentation", 
-        "Change Detection",
-        "ECG Signal Processing",
-        "Time Series Classification"
-    ],
-    "Remote Sensing": [
-        "Satellite Imagery Analysis",
-        "Sentinel-1 SAR Processing",
-        "Multispectral Processing", 
-        "Land Cover Classification",
-        "Disaster Monitoring"
-    ],
-    "Deep Learning": [
-        "xLSTM Architecture", 
-        "CNNs for Imagery", 
-        "U-Net", 
-        "YOLO", 
-        "Semantic Segmentation",
-        "Healthcare AI Models",
-        "Multi-Label Classification"
-    ],
-    "Geospatial Analysis": [
-        "Spatial Statistics", 
-        "Geoprocessing", 
-        "Terrain Analysis",
-        "3D Point Cloud Processing",
-        "Mobile Mapping Systems",
-        "Topographic Correction"
-    ],
-    "Innovation": [
-        "Real-time Sensor Fusion", 
-        "Self-training Models", 
-        "Adaptive Analytics",
-        "Interactive Web Applications"
-    ]
-}
-```
-
----
 
 ## 📊 GitHub Stats
 
@@ -346,6 +295,6 @@ Git • Docker • AWS • Google Drive Integration
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedalmansouryi&color=brightgreen&style=flat-square)
 
-⭐️ From [mohamedalmansouryi]([https://github.com/mohamedalmansouryi](https://github.com/mohamedalmansoury))
+⭐️ From [mohamedalmansoury]([https://github.com/mohamedalmansouryi](https://github.com/mohamedalmansoury))
 
 </div>
