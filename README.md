@@ -219,25 +219,14 @@ Automated workflow for converting Mobile Mapping System data to precise CAD layo
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **AI-driven geospatial solutions** for disaster monitoring and healthcare
+- 🔭 Working on: **AI-driven geospatial solutions** for disaster monitoring .
 - 🌱 Learning: **Advanced xLSTM architectures**, **SAR image processing**, and **sensor fusion systems**
-- 👯 Looking to collaborate on: **GeoAI**, **Remote Sensing**, **Computer Vision**, and **Healthcare AI** projects
-- 💬 Ask me about: **Geomatics**, **Machine Learning**, **Google Earth Engine**, **Point Cloud Processing**, **LiDAR**, **Photogrammetry**, **xLSTM**, **SAR Analysis**
+- 👯 Looking to collaborate on: **GeoAI**, **Remote Sensing**, and **Computer Vision** projects
+- 💬 Ask me about: **Geomatics**, **Machine Learning**, **Google Earth Engine**, **Point Cloud Processing**, **LiDAR**, **Photogrammetry**,  **SAR Analysis**
 - ⚡ Fun fact: I transform pixels into insights and coordinates into intelligence!  
 
 ---
 
-## 📈 Journey & Growth
-
-```mermaid
-graph LR
-A[Geomatics Engineering<br/>2021] --> B[Self-Learning ML/DL]
-B --> C[Freelance Geomatics Engineer<br/>2024]
-C --> D[Nile Flood Mapping<br/>Oct 2025]
-D --> E[Samsung AI Intern<br/>Aug-Nov 2025]
-E --> F[xLSTM ECG Classification<br/>Nov 2025]
-F --> G[AI-First Geomatics Pioneer]
-```
 
 ---
 
@@ -280,7 +269,7 @@ Git • Docker • AWS • Google Drive Integration
 
 **Open to:**
 - 💼 Full-time opportunities in GeoAI, Geomatics & AI/ML
-- 🤝 Collaborations on geospatial ML and healthcare AI projects
+- 🤝 Collaborations on geospatial ML and AI projects
 - 🎓 Research in AI + Remote Sensing + Computer Vision
 - 💡 Freelance geomatics & AI consulting
 - 🌍 International opportunities and remote work
